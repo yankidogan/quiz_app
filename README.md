@@ -1,2 +1,2 @@
 # Quiz Application
- A quiz application made for IOS using Swift programming language.
+ A quiz application made for iOS using Swift programming language.
